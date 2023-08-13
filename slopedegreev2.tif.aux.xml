@@ -1,0 +1,32 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Elevation</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">AVERAGE</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>53</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>16344785|0|0|0|1754124|0|0|0|0|1288260|0|0|0|0|991023|0|0|0|0|788404|0|0|0|0|640181|0|0|0|527402|0|0|0|0|436402|0|0|0|0|362611|0|0|0|0|302205|0|0|0|0|251937|0|0|0|208946|0|0|0|0|174650|0|0|0|0|147348|0|0|0|0|125673|0|0|0|0|106076|0|0|0|90197|0|0|0|0|76020|0|0|0|0|64742|0|0|0|0|54902|0|0|0|0|46428|0|0|0|0|39014|0|0|0|32929|0|0|0|0|27770|0|0|0|0|23385|0|0|0|0|19437|0|0|0|0|16086|0|0|0|13081|0|0|0|0|10421|0|0|0|0|8461|0|0|0|0|6671|0|0|0|0|5114|0|0|0|3976|0|0|0|0|3084|0|0|0|0|2348|0|0|0|0|1757|0|0|0|0|1213|0|0|0|0|942|0|0|0|625|0|0|0|0|397|0|0|0|0|310|0|0|0|0|192|0|0|0|0|144|0|0|0|107|0|0|0|0|69|0|0|0|0|56|0|0|0|0|23|0|0|0|0|26|0|0|0|22|0|0|0|0|12|0|0|0|0|5|0|0|0|0|6|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">17.13888058408852</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">53</MDI>
+      <MDI key="STATISTICS_MEAN">1.9590539199997</MDI>
+      <MDI key="STATISTICS_MEDIAN">0.000000</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">4.1399131131086</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
